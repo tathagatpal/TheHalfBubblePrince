@@ -1,3 +1,4 @@
+//This code was developed by Meetakshi Setiya, Tathagat Pal and Kushal Juneja, IIIT Delhi
 import processing.sound.*;
 
 import processing.serial.*;
